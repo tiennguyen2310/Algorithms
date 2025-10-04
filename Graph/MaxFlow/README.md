@@ -1,7 +1,7 @@
 # Problem Statement
 
 The maximum flow problem in a network requires finding the maximum compatible flow in a flow network with one source and one sink. 
-The max-flow min-cut theorem states that the maximum flow from s to t (source to sink) is equal to the value of the smallest cut in the network.
+The max-flow min-cut theorem states that the maximum flow from `s` to `t` (source to sink) is equal to the value of the smallest cut in the network.
 
 **Task:** Try to solve the maximum flow problem in a network: given a flow network, find the maximum flow.
 
