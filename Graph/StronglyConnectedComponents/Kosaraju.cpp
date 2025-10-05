@@ -1,3 +1,7 @@
+/*
+SCC Implementation: Kosaraju Algorithm using two-time DFS.
+Run-time: O(|E| + |V|)
+*/
 #include <bits/stdc++.h>
 
 using namespace std;
